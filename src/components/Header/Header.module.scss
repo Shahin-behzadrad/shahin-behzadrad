@@ -1,0 +1,21 @@
+.navbar {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  padding-inline: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 30px;
+
+  .navbarBtns {
+    display: flex;
+    column-gap: 30px;
+
+    button {
+      color: var(--neutral-gray) !important;
+      font-weight: bold;
+    }
+  }
+}
