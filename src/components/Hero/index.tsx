@@ -10,6 +10,7 @@ const Hero = () => {
         </div>
         <div className={classes.secondRow}>
           <h1>SHAHIN</h1>
+          <span>BEHZADRAD</span>
         </div>
         <div className={classes.thirdRow}>
           <span>A FRONTEND</span>

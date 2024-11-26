@@ -1,7 +1,6 @@
 .svg {
   width: 25px;
-
-  .svgColor {
-    fill: var(--neutral-gray);
-  }
+  filter: drop-shadow(0 0 2px var(--black));
+  cursor: pointer;
+  fill: var(--neutral-gray);
 }

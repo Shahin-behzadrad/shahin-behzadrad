@@ -6,9 +6,16 @@ import classes from "./SocialShortcuts.module.scss";
 const SocialShortcuts = () => {
   return (
     <div className={classes.shortcuts}>
-      <Github />
-      <Linkedin />
-      <Telegram />
+      <button>
+        <Github />
+      </button>
+      <button>
+        <Linkedin />
+      </button>
+
+      <button>
+        <Telegram />
+      </button>
     </div>
   );
 };
