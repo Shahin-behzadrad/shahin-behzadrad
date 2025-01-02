@@ -1,12 +1,6 @@
-# Hi, I'm **Shahin Behzadrad** 👋  
-Welcome to my GitHub profile!  
+<h1 align="center">Hi, I'm <b>Shahin Behzadrad</b> 👋</h1>
 
----
-
-### 📧 Contact Me  
-- **Email**: [Shahinbzr2267@gmail.com](mailto:Shahinbzr2267@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/shahin-behzadrad](https://linkedin.com/in/shahin-behzadrad)  
-
----
-
-Thank you for visiting my profile! 🚀  
+<p align="center">
+  <a href="mailto:Shahinbzr2267@gmail.com">📧 Shahinbzr2267@gmail.com</a> | 
+  <a href="https://linkedin.com/in/shahin-behzadrad">LinkedIn</a>
+</p>
